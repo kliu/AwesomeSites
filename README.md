@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/vrshow-oss-dt-space.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/car/vrshow-oss.dt-space.cn/showroom)
+[![](./screenshot/mi-su7.jpg)](https://github.com/ezshine/AwesomeSites-Pack04/tree/main/car/mi-su7)
 
 ## Index
 
