@@ -45,7 +45,7 @@ If you have any fascinating websites you want to backup, please let me know and 
 
 ## Daily Show
 
-[![](./screenshot/slowroads.jpg)](https://github.com/ezshine/AwesomeSites-Pack02/tree/main/game/slowroads)
+[![](./screenshot/trollideliciouslydarkescape.jpg)](https://github.com/ezshine/AwesomeSites-Pack05/tree/main/game/trollideliciouslydarkescape.com)
 
 ## Index
 
